@@ -3,7 +3,7 @@ This python code I've created is intended to make it easier to modify the Turbow
 
 # How to use it?
 
-Tutorial here: https://www.youtube.com/watch?v=sSJdDl5xsHI
+Tutorial here: https://www.youtube.com/watch?v=iqgTaNs-EFs
 
 # Credits
 
