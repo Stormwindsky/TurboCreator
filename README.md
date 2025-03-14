@@ -3,7 +3,7 @@ This python code I've created is intended to make it easier to modify the Turbow
 
 # How to use it?
 
-A video on my Youtube channel specializing in tutorials will arrive shortly if it's not late.
+A video on my Youtube channel specializing in tutorials will coming shortly if it's not late.
 
 # Credits
 
